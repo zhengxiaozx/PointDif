@@ -1,3 +1,4 @@
 # PointDif
 
-[Point Cloud Pre-training with Diffusion Models]
+### [Point Cloud Pre-training with Diffusion Models]  
+### CVPR 2024
